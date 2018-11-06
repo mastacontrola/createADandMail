@@ -31,7 +31,7 @@ $exchangeserver = "someexchange.example.notadomain"
 
 ## Optional Variables:
 $company = "Example"
-$ou = "OU=New Users,CN=Users,DC=kohlercu,DC=com"
+$ou = "OU=New Users,CN=Users,DC=example,DC=notadomain"
 $homedrive = '\\someuserdriveshare\users$\%username%'
 $profilePath = "\\someuserprofileshare\Profiles\%username%"
 $logonscript = "Somescriptnamehere.vbs"
